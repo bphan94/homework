@@ -7,10 +7,10 @@ Refactoring code makes the existing code more easily maintained and efficient. T
 * Make code easier to read
 * Find bugs
 * Make the program more efficient
-* Provide consistency throughout code
+* Provide consistency throughout code</br></br>
 
-Link to Repository:
-Link to Website:
+Link to Repository: https://github.com/bphan94/homework01.git</br>
+Link to Website: https://bphan94.github.io/homework01/</br>
 
 
 # Navigating the Website!
