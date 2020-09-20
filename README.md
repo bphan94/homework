@@ -14,4 +14,4 @@ Link to Website: https://bphan94.github.io/homework01/
 
 
 # Navigating the Website!
-[![Navigating Website](assets/images/website.gif)]
+![Navigating Website](assets/images/website.gif)
