@@ -14,4 +14,4 @@ Link to Website: https://bphan94.github.io/homework01/
 
 
 # Navigating the Website!
-[![Image from Gyazo](https://i.gyazo.com/70ef8c934a72a30cfc03bc5cdbe72ea9.gif)](https://gyazo.com/70ef8c934a72a30cfc03bc5cdbe72ea9)
+[![Navigating Website](assets/images/website.gif)]
